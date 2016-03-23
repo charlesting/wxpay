@@ -3,7 +3,7 @@
   "type": "library",
   "description": "wxpay for symfony2",
   "keywords": ["pay", "wechat"],
-  "homepage": "http://koudaileyuan.com",
+  "homepage": "http://cms.mingke.info/",
   "license": "MIT",
   "authors": [
     {
@@ -13,7 +13,7 @@
     }
   ],
   "support": {
-    "forum": "http://koudaileyuan.com"
+    "forum": "http://cms.mingke.info/"
   },
   "require": {
     "php": ">=5.5.9"
